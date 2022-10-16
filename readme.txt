@@ -12,7 +12,7 @@ I'm also pushing a module created by me "SortingalgorithmsbyKaran".
 You can pull this in your local system and next time you want to use any of the above algorithms 
 you can just import the module in your code.
 
-For example, if I want to use bubble sort. 
+For example, if I want to use selection sort. 
 
     from SortingalgorithmsbyKaran import *
     list1 = [10,20,30,2,14]
