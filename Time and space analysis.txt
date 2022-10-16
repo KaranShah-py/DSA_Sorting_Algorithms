@@ -1,0 +1,14 @@
+Kindly checkout my other social media accounts too :-)
+Linkedin: - https://www.linkedin.com/in/karan-shah2001/
+GitHub: - https://github.com/KaranShah-py
+Leetcode: - https://leetcode.com/karanshah007/
+
+
+-----------------------------------------------------------------------------------------------------------------
+Sorting algorithm          Best Case          Average Case         Worst Case          space          stable
+Selection Sort	              O(n2)	               O(n2)	           O(n2)            O(1)            No
+Bubble Sort	                  O(n)	               O(n2)	           O(n2)            O(1)            Yes
+Insertion Sort	              O(n)	               O(n2)	           O(n2)            O(1)            Yes
+Quick Sort	                  O(n.log(n))	       O(n.log(n))	       O(n2)            O(nlogn)        No
+Merge Sort	                  O(n.log(n))	       O(n.log(n))	       O(n.log(n))      O(n)            Yes
+------------------------------------------------------------------------------------------------------------------
